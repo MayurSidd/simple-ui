@@ -1,0 +1,7 @@
+.todo-list > li {
+  padding: 5px 0;
+}
+
+.todo-list > li:hover .tools {
+  display: inline-block;
+}

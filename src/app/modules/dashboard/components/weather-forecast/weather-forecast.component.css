@@ -1,0 +1,28 @@
+.weather img {
+  width: auto !important;
+  height: 246px;
+}
+
+.weather span {
+  color: #fff;
+}
+
+.weather h2,
+.weather p {
+  font-weight: 300;
+  color: #fff;
+}
+
+.weather .current-temperature {
+  font-size: 70px;
+  color: #fff;
+  display: inline-block;
+}
+
+.weather .degree {
+  color: #fff;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
+  font-size: 20px;
+}
